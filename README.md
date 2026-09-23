@@ -1,2 +1,5 @@
-# nagoya-trip-dashboard
-Mobile travel reference dashboard for Nagoya, Ise, Shingu trip
+# 名古屋・伊勢・新宮旅行參考儀表板
+
+手機友善靜態頁，整理共同文件、早餐、景點、eSIM、票券、採買與拍照 tips。
+
+注意：公開部署時不要放票券 QR、訂房編號、房號、護照資料或付款資訊。
